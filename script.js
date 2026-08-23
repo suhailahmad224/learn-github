@@ -6,3 +6,5 @@ function addd(a, b){
 }
 
 addd(3,3)
+
+console.log("suhal");
